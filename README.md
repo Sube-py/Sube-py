@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sube-py&show_icons=true&theme=light)](https://github.com/Sube-py)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sube-py&layout=compact&theme=light)](https://github.com/Sube-py)
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Sube-py)](https://github.com/LordDashMe/github-contribution-stats/)
+
+
+
 <!--
 **Sube-py/Sube-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
