@@ -7,6 +7,10 @@
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Sube-py)](https://github.com/LordDashMe/github-contribution-stats/)
 
 
+[![Another GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sube-mm&show_icons=true&theme=light)](https://github.com/Sube-mm)
+
+[![Another Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Sube-mm)](https://github.com/LordDashMe/github-contribution-stats/)
+
 
 <!--
 **Sube-py/Sube-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
