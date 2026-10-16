@@ -4,12 +4,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sube-py&layout=compact&theme=default)](https://github.com/Sube-py)
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Sube-py)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sube-py)](https://github.com/Sube-py)
 
 
 [![Another GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sube-mm&show_icons=true&theme=default)](https://github.com/Sube-mm)
 
-[![Another Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Sube-mm)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sube-mm)](https://github.com/Sube-mm)
 
 
 <!--
