@@ -1,15 +1,10 @@
 ## Hi there 👋
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sube-py&show_icons=true&theme=default)](https://github.com/Sube-py)
+![Metrics for Sube-py](metrics/metrics.Sube-py.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sube-py&layout=compact&theme=default)](https://github.com/Sube-py)
+![Most used languages](metrics/langs.Sube-py.svg)
 
-[![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sube-py&theme=default&ring=2f80ed&fire=2f80ed&currStreakLabel=2f80ed&currStreakNum=434d58&sideNums=434d58&sideLabels=434d58&dates=434d58)](https://github.com/Sube-py)
-
-
-[![Another GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sube-mm&show_icons=true&theme=default)](https://github.com/Sube-mm)
-
-[![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sube-mm&theme=default&ring=2f80ed&fire=2f80ed&currStreakLabel=2f80ed&currStreakNum=434d58&sideNums=434d58&sideLabels=434d58&dates=434d58)](https://github.com/Sube-mm)
+![Metrics for Sube-mm](metrics/metrics.Sube-mm.svg)
 
 
 <!--
