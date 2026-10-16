@@ -4,8 +4,6 @@
 
 ![Most used languages](metrics/langs.Sube-py.svg)
 
-![Metrics for Sube-mm](metrics/metrics.Sube-mm.svg)
-
 
 <!--
 **Sube-py/Sube-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
