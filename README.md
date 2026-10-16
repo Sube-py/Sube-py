@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sube-py&show_icons=true&theme=light)](https://github.com/Sube-py)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sube-py&show_icons=true&theme=default)](https://github.com/Sube-py)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sube-py&layout=compact&theme=light)](https://github.com/Sube-py)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sube-py&layout=compact&theme=default)](https://github.com/Sube-py)
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Sube-py)](https://github.com/LordDashMe/github-contribution-stats/)
 
 
-[![Another GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sube-mm&show_icons=true&theme=light)](https://github.com/Sube-mm)
+[![Another GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sube-mm&show_icons=true&theme=default)](https://github.com/Sube-mm)
 
 [![Another Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Sube-mm)](https://github.com/LordDashMe/github-contribution-stats/)
 
